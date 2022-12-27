@@ -21,3 +21,13 @@
 .header__lang-link:last-of-type {
     margin-left: 18px;
 }
+
+@media screen and (max-width: 424px) {
+    .header__lang-link {
+        width: 22px;
+        height: 20px;
+        margin: 14px 0 8px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

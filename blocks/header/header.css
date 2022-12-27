@@ -1,9 +1,29 @@
 .header {
     margin: 28px auto 0;
     padding: 0;
-    width: 1184px;
+    max-width: 1184px;
     height: 52px;
     position: relative;
     display: flex;
     justify-content: space-between;
+    /*border: 1px solid red;*/
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .header {
+        max-width: 928px
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .header {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header {
+        max-width: 288px;
+        max-height: 42px;
+    }
 }
