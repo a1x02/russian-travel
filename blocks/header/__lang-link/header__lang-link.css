@@ -1,0 +1,23 @@
+.header__lang-link {
+    margin: 18px 0 6px;
+    padding: 0;
+    width: 30px;
+    height: 28px;
+    text-decoration: none;
+    color: #FFFFFF;
+/*  todo font styles*/
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+
+}
+
+.header__lang-link:active {
+    text-decoration: underline;
+}
+
+.header__lang-link:last-of-type {
+    margin-left: 18px;
+}
