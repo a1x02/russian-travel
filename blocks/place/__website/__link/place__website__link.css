@@ -1,0 +1,14 @@
+.place__website__link {
+    margin: 12px 0 0;
+    padding: 0;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
