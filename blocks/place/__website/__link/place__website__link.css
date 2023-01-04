@@ -12,3 +12,7 @@
 
     color: #FFFFFF;
 }
+
+.place__website__link:hover {
+    opacity: 0.8;
+}
