@@ -4,7 +4,7 @@
     max-width: 984px;
     max-height: 1005px;
     /*border: 1px solid red;*/
-    horiz-align: left;
+    /*horiz-align: left;*/
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
