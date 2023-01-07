@@ -15,6 +15,6 @@
     /*border: 1px solid blue;*/
 }
 
-.cover__overlay:hover {
+.cover:hover .cover__overlay{
     opacity: 0.8;
 }

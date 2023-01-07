@@ -7,6 +7,10 @@
     flex-direction: column;
     position: relative;
     z-index: 1;
+    background-image: url("/images/cover__background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 
 
     /*border: 1px dashed yellow;*/
