@@ -9,6 +9,8 @@
 
 @media screen and (max-width: 767px) {
     .place__website {
-        max-height: 46px;
+        margin-left: 16px;
+        margin-right: 16px;
+        /*max-height: 46px;*/
     }
 }

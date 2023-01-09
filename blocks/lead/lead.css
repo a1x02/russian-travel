@@ -2,7 +2,7 @@
     margin: 56px auto 0;
     padding: 0;
     max-width: 984px;
-    max-height: 1005px;
+    /*max-height: 1005px;*/
     /*border: 1px solid red;*/
     /*horiz-align: left;*/
 }
@@ -11,20 +11,22 @@
     .lead {
         margin-top: 48px;
         max-width: 928px;
-        max-height: 962px;
+        /*max-height: 962px;*/
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .lead {
         max-width: 768px;
-        max-height: 862px;
+        /*max-height: 862px;*/
+        margin-top: 48px;
     }
 }
 
 @media screen and (max-width: 424px) {
     .lead {
         max-width: 320px;
-        max-height: 406px;
+        /*max-height: 406px;*/
+        margin-top: 48px;
     }
 }

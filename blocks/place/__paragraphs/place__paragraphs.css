@@ -4,3 +4,10 @@
 
     /*border: 1px solid orange;*/
 }
+
+@media screen and (max-width: 767px){
+    .place__paragraphs {
+        margin: 0 auto;
+        max-width: 288px;
+    }
+}
