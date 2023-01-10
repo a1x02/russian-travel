@@ -10,10 +10,14 @@
     /*text-align: right;*/
 
     color: #FFFFFF;
+    /*border: 1px solid blue;*/
 }
 
 @media screen and (max-width: 767px) {
     .footer__copyright {
+        margin-top: 48px;
         line-height: 14px;
+        margin-left: 0;
+        /*padding-right: 0;*/
     }
 }
