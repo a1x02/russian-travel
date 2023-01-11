@@ -9,6 +9,7 @@
     background-image: url('../../../images/cover__background.png');
     background-repeat: no-repeat;
     background-size: contain;
+    text-decoration: none;
     background-position: top;
     /*opacity: 0.3;*/
     /*border: 1px solid red;*/
